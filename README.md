@@ -1,5 +1,6 @@
-# dovolenka
+# Dovolenka
 
+Potrebujes si z Google exportnut kalendar v ICS formate
 
 ```java
 public class Main {
